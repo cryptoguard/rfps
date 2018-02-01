@@ -23,4 +23,5 @@ Describe in great details the entire scope of the proposal. This is the extensio
 Enter the estimated time of completion in minutes, hours or days depending on the situation
 
 ==Completion Reward==
+Enter the estimated cost of completion in USD fiat pricing
 Base Reward: 50 PARTs (paid per milestone reached)
